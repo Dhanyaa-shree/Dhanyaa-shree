@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Dhanyaa Shree 👋
 
-<!--
-**Dhanyaa-shree/Dhanyaa-shree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Software Systems Student
+📊 Aspiring Data Scientist & AI Enthusiast
+💡 Interested in ML, Deep Learning & Computer Vision
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Learning Data Science, Machine Learning & Deep Learning
+* 📊 Passionate about Data Analytics & real-world problem solving
+* 🤖 Exploring Computer Vision & AI applications
+* 💻 Building projects using Python, SQL & modern tools
+
+---
+
+## 🛠️ Skills
+
+* **Languages:** Python, SQL
+* **Libraries/Tools:** Pandas, NumPy, Matplotlib, Streamlit
+* **Domains:**
+
+  * Data Analytics
+  * Machine Learning
+  * Deep Learning
+  * Computer Vision
+
+---
+
+## 🎯 Goals
+
+* Build impactful AI & Data Science projects
+* Contribute to real-world solutions using data
+* Grow as a Data Scientist
+
+---
+
+## 📫 Contact
+
+* ✉️ Email: dhanyaashree2005@gmail.com
+
+---
+
+⭐ *“Turning data into intelligent solutions.”*
