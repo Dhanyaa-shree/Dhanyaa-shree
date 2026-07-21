@@ -40,18 +40,16 @@
 * 📈 Data Visualization
 
 ---
-
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanyaa-shree&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanyaa-shree&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats-rho-three-41.vercel.app/api?username=Dhanyaa-shree&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats-rho-three-41.vercel.app/api/top-langs/?username=Dhanyaa-shree&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Dhanyaa-shree&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 🎯 Goals
